@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: Poppins;
+}
+.navbar {
+    display: flex;
+    background: black;
+    color: aliceblue;
+}
+
+.logo {
+    margin: 20px 60px;
+    height: 35px;
+    padding: 10px;
+    padding-right: 40px ;
+    border-right: solid silver;
+
+    
+}
+
+
+.list-item {
+    display: inline;
+    padding: 5px 20px;
+    font-weight: bold;
+    cursor: pointer; 
+    
+}
+.list {
+padding : 40px 0px; 
+
+
+}
+
+
+
+ul>li::after {
+    content: " ↓";
+    ;
+    
+}
+li+li::after{
+    content: "";
+    
+}
+
+.button-small {
+    background-color: purple;
+    color: beige;
+    padding: 10px 20px ;
+    border-radius: 10px;
+    position: absolute;
+    left: 87%;
+    top: 20px; 
+    cursor: pointer;
+}
+
+.button-small:active {
+    box-shadow: 0 5px #666;
+  }
+
+.button-large:active {
+    box-shadow: 0 5px #666;
+  }
+
+
+
+.hero {
+    text-align: center;
+    padding: 10% 20%;
+    background-image: url(./assets/bg.png);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 50vh;
+    color: azure;
+}
+
+.hero-heading {
+ font-size: 5rem;
+text-align: center;
+}
+
+.hero-description {
+    font-size: 30px;
+}
+
+.button-large {
+    margin-top: 60px;
+    background-color: purple;
+    color: beige;
+    padding: 15px 20px ;
+    border-radius: 10px;
+    border: none;
+    font-size: 26px;
+    cursor: pointer;
+    font-weight: 400;
+}
