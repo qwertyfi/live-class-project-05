@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Technologies-HTML--CSS-orange)
-# Project-05 | Porfolio Web Page
+# Project-05 | Crypto Landing page
 Hi there,
 I'm Wasit Ali and this is my 5th project on HTML and CSS in my [web dev bootcamp](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer). 
 
@@ -9,6 +9,7 @@ I'm Wasit Ali and this is my 5th project on HTML and CSS in my [web dev bootcamp
 
 
 ## 🖥 Preview
+![](./assets/2022-08-10-21-54-09.png)
 `note:` please make sure the preview screen is `1920 x 1080` and the site is not responsive as of now.
 
 [Live Preview](https://fastidious-travesseiro-828363.netlify.app/)
