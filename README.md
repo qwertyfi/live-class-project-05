@@ -1,23 +1,23 @@
 ![](https://img.shields.io/badge/Technologies-HTML--CSS-orange)
+
 # Project-05 | Crypto Landing page
+
 Hi there,
-I'm Wasit Ali and this is my 5th project on HTML and CSS in my [web dev bootcamp](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer). 
-
-## ⚒️ Technologies Used
- - HTML
- - CSS
-
+I'm Wasit Ali and this is my 5th project on HTML and CSS.
 
 ## 🖥 Preview
+
 ![](./assets/2022-08-10-21-54-09.png)
-`note:` please make sure the preview screen is `1920 x 1080` and the site is not responsive as of now.
+`note:` please make sure the preview screen is `1920 x 1080` and the site is desktop view only as of now.
 
-[Live Preview](https://fastidious-travesseiro-828363.netlify.app/)
+🚀 [Live Preview](https://fastidious-travesseiro-828363.netlify.app/)
 
-##  👀 What I have learned in this project?
+## 👀 What I have learned in this project?
+
 - Flex-box for elements.
 - Clear understanding of statis image property.
-- How to use background image in a scrolling web page.
+- Use of static background image in a scrolling web page.
 
-## ⏲ Time to finish the project
-It took me around 6 hours to complete this project.
+## ⏲ Time taken to finish the project
+
+- Almost 6 hours
